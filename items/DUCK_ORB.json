@@ -1,0 +1,29 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§aDuck Orb",
+  "nbttag": "{Unbreakable:1b,HideFlags:38,SkullOwner:{Id:\"d7f4f2d2-753f-3d96-a052-ac218e0ce281\",Properties:{textures:[0:{Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZjYjRkZTZlYjk1ZWZhNTI5Nzk2NzM5MzRlNDhmNzEyMjNlM2JkYjM1OGE5OTZmMTlmMGZlOGI1MTRkYTAwNTkifX19\"}]}},ExtraAttributes:{id:\"DUCK_ORB\"}}",
+  "damage": 3,
+  "lore": [
+    "§eRight-click to view recipes!",
+    "",
+    "§a§lUNCOMMON"
+  ],
+  "internalname": "DUCK_ORB",
+  "clickcommand": "viewrecipe",
+  "modver": "CUSTOM",
+ "recipes": [
+    {
+      "A1": "ENCHANTED_SPONGE:32",
+      "A2": "ENCHANTED_PUFFERFISH:64",
+      "A3": "ENCHANTED_WATER_LILY:32",
+      "B1": "ENCHANTED_COOKED_SALMON:16",
+      "B2": "DIVER_FRAGMENT:1",
+      "B3": "ENCHANTED_COOKED_FISH:16",
+      "C1": "ENCHANTED_PRISMARINE_CRYSTALS:32",
+      "C2": "ENCHANTED_CLOWNFISH:64",
+      "C3": "ENCHANTED_PRISMARINE_SHARD:32",
+      "type": "crafting",
+      "count": 1,
+    }
+ ]
+}

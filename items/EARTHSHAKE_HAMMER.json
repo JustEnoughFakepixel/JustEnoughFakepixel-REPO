@@ -1,0 +1,27 @@
+{
+  "itemid": "minecraft:stone_axe",
+  "displayname": "§5Earthshake Hammer",
+  "nbttag": "{ExtraAttributes:{id:\"EARTHSHAKE_HAMMER\",HideFlags:38,Unbreakable:1b,display:{Lore:[0:\"§7Damage: §c+155\",1:\"§7Strength: §c+80\",2:\"\",3:\"§6Ability: Earthshake\",4:\"§7The hammer's damage scales up to 3\",5:\"§7times based on the height from which\",6:\"§7the player falls, with falling from 8\",7:\"§7blocks or higher causing an earthquake\",8:\"§7that damages and stuns nearby monsters\",9:\"§7for §a5 seconds§7.\",10:\"\",11:\"§8This item can be reforged!\",12:\"§5§lEPIC SWORD\"],Name:\"§5Earthshake Hammer\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Damage: §c+155",
+    "§7Strength: §c+80",
+    "",
+    "§6Ability: Earthshake",
+    "§7The hammer's damage scales up to 3",
+    "§7times based on the height from which",
+    "§7the player falls, with falling from 8",
+    "§7blocks or higher causing an earthquake",
+    "§7that damages and stuns nearby monsters",
+    "§7for §a5 seconds§7.",
+    "",
+    "§8This item can be reforged!",
+    "§5§lEPIC SWORD"
+  ],
+  "internalname": "EARTHSHAKE_HAMMER",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "justenoughfakepixel-1.2.4",
+  "infoType": "",
+  "info": []
+}

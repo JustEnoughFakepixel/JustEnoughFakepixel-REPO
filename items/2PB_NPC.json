@@ -1,0 +1,22 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§52pb (NPC)",
+  "nbttag": "{ExtraAttributes:{id:\"2PB_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"bf0eb59c-3f1b-493a-bf0b-0ecf2f9bd01f\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3NTAzOTU3MjU1MiwKICAicHJvZmlsZUlkIiA6ICJiZjBlYjU5YzNmMWI0OTNhYmYwYjBlY2YyZjliZDAxZiIsCiAgInByb2ZpbGVOYW1lIiA6ICIycGIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGVmNDhiNjUzODgyNzZjNTk0ZjkwYTMzOGM0MzE2ODk1NWM2NDk5YjExZWViZDVjMTkzYmQxMWNjYjcyNTZlZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVjMjk0MTAwNTdlMzJhYmVjMDJkODcwZWNiNTJlYzI1ZmI0NWVhODFlNzg1YTc4NTRhZTg0MjlkNzIzNmNhMjYiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§52pb (NPC)\"}}",
+  "damage": 3,
+  "lore": [
+    "You need Piece of Skyblock Code to complete this quest!"
+  ],
+  "internalname": "2PB_NPC",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 43.0.0+mc1.21.10",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/2pb",
+    "https://wiki.hypixel.net/2pb"
+  ],
+  "x": 83,
+  "y": 72,
+  "z": 118,
+  "island": "hub"
+}
