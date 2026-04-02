@@ -26,10 +26,11 @@
     "§eRight-click to add this pet to your pet menu!",
     "",
     "§6§lLEGENDARY",
-    "§4fakepixel exclusive"
+    "",
+    "§k|||§r §4§lFAKEPIXEL EXCLUSIVE §r§k|||"
     
   ],
-  "internalname": "PET_DUCK;4",
+  "internalname": "DUCK_PET;4",
   "clickcommand": "viewrecipe",
   "modver": "jef1.2.4",
   "infoType": "WIKI_URL",
@@ -40,7 +41,7 @@
     {
       "type": "crafting",
       "count": 1,
-      "overrideOutputId": "PET_DUCK;4",
+      "overrideOutputId": "DUCK_PET;4",
       "A1": "ENCHANTED_FEATHER:64",
       "A2": "ENCHANTED_COOKED_FISH:64",
       "A3": "ENCHANTED_FEATHER:64",
