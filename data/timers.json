@@ -26,7 +26,7 @@
     },
     {
       "itemId": "RAGNAROK_AXE",
-      "durationMs": 120000
+      "durationMs": 20000
     },
     {
       "itemId": "BONZO_MASK",
@@ -99,6 +99,10 @@
     {
       "pattern": "Soulcry",
       "itemIds": ["ATOMSPLIT_KATANA"]
+    },
+    {
+      "pattern": "Ragnarock",
+      "itemIds": ["RAGNAROCK_AXE"]
     },
     {
       "pattern": "Molten Wave",
