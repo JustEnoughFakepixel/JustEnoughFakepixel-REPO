@@ -48,7 +48,7 @@
   "abilities": [
     {
       "itemId": "FIRE_VEIL_WAND",
-      "durationMs": 5000
+      "durationMs": 10000
     },
     {
       "itemId": "ATOMSPLIT_KATANA",
