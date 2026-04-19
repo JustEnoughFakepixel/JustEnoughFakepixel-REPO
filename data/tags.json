@@ -4,22 +4,19 @@
       "name": "kanishka007",
       "text": "§c[Developer]",
       "unicodeSymbol": "U+27E3",
-      "unicodeColor": "#55FFFF",
-      "hover": "§bThis person develops for JEF"
+      "unicodeColor": "#55FFFF"
     },
     {
       "name": "mansoob201",
       "text": "§c[Developer]",
       "unicodeSymbol": "U+27E3",
-      "unicodeColor": "#FF5555",
-      "hover": "§cThis person develops for JEF"
+      "unicodeColor": "#FF5555"
     },
     {
       "name": "pickonimbus2000",
       "text": "§b[Developer]",
       "unicodeSymbol": "U+2726",
-      "unicodeColor": "#00AAFF",
-      "hover": "§bThis person develops for JEF"
+      "unicodeColor": "#00AAFF"
     }
   ]
 }
