@@ -54,35 +54,35 @@
     },
     {
       "itemId": "SHADOW_FURY",
-      "durationMs": "15000"
+      "durationMs": 15000
     }
     {
       "itemId": "STARRED_SHADOW_FURY",
-      "durationMs": "15000"
+      "durationMs": 15000
     },
     {
       "itemId": "ANCESTRAL_SPADE",
-      "durationMs": "3000"
+      "durationMs": 3000
     },
     {
       "itemId": "WABD_OF_ATONEMENT",
-      "durationMs": "1000"
+      "durationMs": 1000
     },
     {
       "itemId": "VOODOO_DOLL",
-      "durationMs": "5000"
+      "durationMs": 5000
     },
     {
       "itemId": "SWORD_OF_BAD_HEALTH",
-      "durationMs": "5000"
+      "durationMs": 5000
     },
     {
       "itemId": "WEIRD_TUBA",
-      "durationMs": "20000"
+      "durationMs": 20000
     },
     {
       "itemId": "STAFF_OF_THE_VOLCANO",
-      "durationMs": "30000"
+      "durationMs": 30000
     }
   ],
   "abilities": [
