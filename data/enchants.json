@@ -1662,14 +1662,14 @@
     "turbo_cactus"
   ],
   "NORMAL": {
+    "absorb": {
+      "loreName": "Absorb",
+      "nbtName": "absorb",
+      "goodLevel": 3,
+      "maxLevel": 10
+    },
     "aiming": {
       "loreName": "Aiming",
-      "nbtName": "aiming",
-      "goodLevel": 5,
-      "maxLevel": 5
-    },
-    "dragon tracer": {
-      "loreName": "Dragon Tracer",
       "nbtName": "aiming",
       "goodLevel": 5,
       "maxLevel": 5
@@ -1710,12 +1710,6 @@
       "goodLevel": 5,
       "maxLevel": 6
     },
-    "piscary": {
-      "loreName": "Piscary",
-      "nbtName": "piscary",
-      "goodLevel": 5,
-      "maxLevel": 6
-    },
     "caster": {
       "loreName": "Caster",
       "nbtName": "caster",
@@ -1734,11 +1728,23 @@
       "goodLevel": 3,
       "maxLevel": 5
     },
+    "charm": {
+      "loreName": "Charm",
+      "nbtName": "charm",
+      "goodLevel": 4,
+      "maxLevel": 5
+    },
     "cleave": {
       "loreName": "Cleave",
       "nbtName": "cleave",
       "goodLevel": 5,
       "maxLevel": 6
+    },
+    "corruption": {
+      "loreName": "Corruption",
+      "nbtName": "corruption",
+      "goodLevel": 4,
+      "maxLevel": 5
     },
     "counter-strike": {
       "loreName": "Counter-Strike",
@@ -1758,17 +1764,11 @@
       "goodLevel": 5,
       "maxLevel": 6
     },
-    "charm": {
-      "loreName": "Charm",
-      "nbtName": "charm",
-      "goodLevel": 4,
-      "maxLevel": 5
-    },
-    "corruption": {
-      "loreName": "Corruption",
-      "nbtName": "corruption",
-      "goodLevel": 4,
-      "maxLevel": 5
+    "dedication": {
+      "loreName": "Dedication",
+      "nbtName": "dedication",
+      "goodLevel": 3,
+      "maxLevel": 4
     },
     "delicate": {
       "loreName": "Delicate",
@@ -1792,6 +1792,18 @@
       "loreName": "Dragon Hunter",
       "nbtName": "dragon_hunter",
       "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "dragon tracer": {
+      "loreName": "Dragon Tracer",
+      "nbtName": "aiming",
+      "goodLevel": 5,
+      "maxLevel": 5
+    },
+    "drain": {
+      "loreName": "Drain",
+      "nbtName": "drain",
+      "goodLevel": 3,
       "maxLevel": 5
     },
     "efficiency": {
@@ -1824,6 +1836,12 @@
       "goodLevel": 5,
       "maxLevel": 10
     },
+    "ferocious mana": {
+      "loreName": "Ferocious Mana",
+      "nbtName": "ferocious_mana",
+      "goodLevel": 9,
+      "maxLevel": 10
+    },
     "fire aspect": {
       "loreName": "Fire Aspect",
       "nbtName": "fire_aspect",
@@ -1854,12 +1872,6 @@
       "goodLevel": 3,
       "maxLevel": 4
     },
-    "lapidary": {
-      "loreName": "Lapidary",
-      "nbtName": "lapidary",
-      "goodLevel": 0,
-      "maxLevel": 5
-    },
     "frail": {
       "loreName": "Frail",
       "nbtName": "frail",
@@ -1872,17 +1884,17 @@
       "goodLevel": 2,
       "maxLevel": 2
     },
-    "ferocious mana": {
-      "loreName": "Ferocious Mana",
-      "nbtName": "ferocious_mana",
-      "goodLevel": 9,
-      "maxLevel": 10
-    },
     "giant killer": {
       "loreName": "Giant Killer",
       "nbtName": "giant_killer",
       "goodLevel": 5,
       "maxLevel": 7
+    },
+    "green thumb": {
+      "loreName": "Green Thumb",
+      "nbtName": "green_thumb",
+      "goodLevel": 4,
+      "maxLevel": 5
     },
     "growth": {
       "loreName": "Growth",
@@ -1890,17 +1902,23 @@
       "goodLevel": 5,
       "maxLevel": 7
     },
+    "hardened mana": {
+      "loreName": "Hardened Mana",
+      "nbtName": "hardened_mana",
+      "goodLevel": 9,
+      "maxLevel": 10
+    },
     "harvesting": {
       "loreName": "Harvesting",
       "nbtName": "harvesting",
       "goodLevel": 5,
       "maxLevel": 6
     },
-    "hardened mana": {
-      "loreName": "Hardened Mana",
-      "nbtName": "hardened_mana",
-      "goodLevel": 9,
-      "maxLevel": 10
+    "ice cold": {
+      "loreName": "Ice Cold",
+      "nbtName": "ice_cold",
+      "goodLevel": 4,
+      "maxLevel": 5
     },
     "impaling": {
       "loreName": "Impaling",
@@ -1919,6 +1937,12 @@
       "nbtName": "knockback",
       "goodLevel": 2,
       "maxLevel": 2
+    },
+    "lapidary": {
+      "loreName": "Lapidary",
+      "nbtName": "lapidary",
+      "goodLevel": 0,
+      "maxLevel": 5
     },
     "lethality": {
       "loreName": "Lethality",
@@ -1980,11 +2004,29 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "paleontologist": {
+      "loreName": "Paleontologist",
+      "nbtName": "paleontologist",
+      "goodLevel": 3,
+      "maxLevel": 5
+    },
+    "pesterminator": {
+      "loreName": "Pesterminator",
+      "nbtName": "pesterminator",
+      "goodLevel": 5,
+      "maxLevel": 6
+    },
     "piercing": {
       "loreName": "Piercing",
       "nbtName": "piercing",
       "goodLevel": 1,
       "maxLevel": 1
+    },
+    "piscary": {
+      "loreName": "Piscary",
+      "nbtName": "piscary",
+      "goodLevel": 5,
+      "maxLevel": 6
     },
     "power": {
       "loreName": "Power",
@@ -1996,6 +2038,12 @@
       "loreName": "Prismatic",
       "nbtName": "prismatic",
       "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "pristine": {
+      "loreName": "Pristine",
+      "nbtName": "pristine",
+      "goodLevel": 3,
       "maxLevel": 5
     },
     "projectile protection": {
@@ -2010,6 +2058,12 @@
       "goodLevel": 5,
       "maxLevel": 6
     },
+    "prosperity": {
+      "loreName": "Prosperity",
+      "nbtName": "prosperity",
+      "goodLevel": 4,
+      "maxLevel": 5
+    },
     "protection": {
       "loreName": "Protection",
       "nbtName": "protection",
@@ -2022,11 +2076,29 @@
       "goodLevel": 2,
       "maxLevel": 2
     },
+    "quantum": {
+      "loreName": "Quantum",
+      "nbtName": "quantum",
+      "goodLevel": 3,
+      "maxLevel": 5
+    },
+    "quick bite": {
+      "loreName": "Quick Bite",
+      "nbtName": "quick_bite",
+      "goodLevel": 4,
+      "maxLevel": 5
+    },
     "rainbow": {
       "loreName": "Rainbow",
       "nbtName": "rainbow",
       "goodLevel": 1,
       "maxLevel": 2
+    },
+    "reflection": {
+      "loreName": "Reflection",
+      "nbtName": "reflection",
+      "goodLevel": 3,
+      "maxLevel": 5
     },
     "rejuvenate": {
       "loreName": "Rejuvenate",
@@ -2088,6 +2160,12 @@
       "goodLevel": 5,
       "maxLevel": 7
     },
+    "smoldering": {
+      "loreName": "Smoldering",
+      "nbtName": "smoldering",
+      "goodLevel": 4,
+      "maxLevel": 5
+    },
     "snipe": {
       "loreName": "Snipe",
       "nbtName": "snipe",
@@ -2100,29 +2178,29 @@
       "goodLevel": 5,
       "maxLevel": 6
     },
+    "strong mana": {
+      "loreName": "Strong Mana",
+      "nbtName": "strong_mana",
+      "goodLevel": 9,
+      "maxLevel": 10
+    },
     "sugar rush": {
       "loreName": "Sugar Rush",
       "nbtName": "sugar_rush",
       "goodLevel": 0,
       "maxLevel": 3
     },
+    "sunder": {
+      "loreName": "Sunder",
+      "nbtName": "sunder",
+      "goodLevel": 3,
+      "maxLevel": 5
+    },
     "syphon": {
       "loreName": "Syphon",
       "nbtName": "syphon",
       "goodLevel": 3,
       "maxLevel": 5
-    },
-    "smoldering": {
-      "loreName": "Smoldering",
-      "nbtName": "smoldering",
-      "goodLevel": 4,
-      "maxLevel": 5
-    },
-    "strong mana": {
-      "loreName": "Strong Mana",
-      "nbtName": "strong_mana",
-      "goodLevel": 9,
-      "maxLevel": 10
     },
     "tabasco": {
       "loreName": "Tabasco",
@@ -2148,11 +2226,23 @@
       "goodLevel": 5,
       "maxLevel": 7
     },
+    "tidal": {
+      "loreName": "Tidal",
+      "nbtName": "tidal",
+      "goodLevel": 3,
+      "maxLevel": 3
+    },
     "titan killer": {
       "loreName": "Titan Killer",
       "nbtName": "titan_killer",
       "goodLevel": 5,
       "maxLevel": 7
+    },
+    "transylvanian": {
+      "loreName": "Transylvanian",
+      "nbtName": "transylvanian",
+      "goodLevel": 2,
+      "maxLevel": 5
     },
     "triple-strike": {
       "loreName": "Triple-Strike",
@@ -2196,6 +2286,12 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "turbo-moonflower": {
+      "loreName": "Turbo-Moonflower",
+      "nbtName": "turbo_moonflower",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
     "turbo-mushrooms": {
       "loreName": "Turbo-Mushrooms",
       "nbtName": "turbo_mushrooms",
@@ -2211,6 +2307,18 @@
     "turbo-pumpkin": {
       "loreName": "Turbo-Pumpkin",
       "nbtName": "turbo_pumpkin",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "turbo-rose": {
+      "loreName": "Turbo-Rose",
+      "nbtName": "turbo_rose",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "turbo-sunflower": {
+      "loreName": "Turbo-Sunflower",
+      "nbtName": "turbo_sunflower",
       "goodLevel": 0,
       "maxLevel": 5
     },
@@ -2252,6 +2360,12 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "bobbin time": {
+      "loreName": "Bobbin' Time",
+      "nbtName": "ultimate_bobbin_time",
+      "goodLevel": 3,
+      "maxLevel": 5
+    },
     "chimera": {
       "loreName": "Chimera",
       "nbtName": "ultimate_chimera",
@@ -2270,23 +2384,29 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "fatal tempo": {
+      "loreName": "Fatal Tempo",
+      "nbtName": "ultimate_fatal_tempo",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "first impression": {
+      "loreName": "First Impression",
+      "nbtName": "ultimate_first_impression",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
     "flash": {
       "loreName": "Flash",
       "nbtName": "ultimate_flash",
       "goodLevel": 0,
       "maxLevel": 5
     },
-    "last stand": {
-      "loreName": "Last Stand",
-      "nbtName": "ultimate_last_stand",
+    "flowstate": {
+      "loreName": "Flowstate",
+      "nbtName": "ultimate_flowstate",
       "goodLevel": 0,
-      "maxLevel": 5
-    },
-    "fatal tempo": {
-      "loreName": "Fatal Tempo",
-      "nbtName": "ultimate_fatal_tempo",
-      "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 3
     },
     "habanero tactics": {
       "loreName": "Habanero Tactics",
@@ -2300,15 +2420,21 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
-    "ultimate jerry": {
-      "loreName": "Ultimate Jerry",
-      "nbtName": "ultimate_jerry",
+    "last stand": {
+      "loreName": "Last Stand",
+      "nbtName": "ultimate_last_stand",
       "goodLevel": 0,
       "maxLevel": 5
     },
     "legion": {
       "loreName": "Legion",
       "nbtName": "ultimate_legion",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "missile": {
+      "loreName": "Missile",
+      "nbtName": "ultimate_missile",
       "goodLevel": 0,
       "maxLevel": 5
     },
@@ -2321,6 +2447,12 @@
     "one for all": {
       "loreName": "One For All",
       "nbtName": "ultimate_one_for_all",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "refrigerate": {
+      "loreName": "Refrigerate",
+      "nbtName": "ultimate_refrigerate",
       "goodLevel": 0,
       "maxLevel": 5
     },
@@ -2342,17 +2474,23 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "the one": {
+      "loreName": "The One",
+      "nbtName": "ultimate_the_one",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "ultimate jerry": {
+      "loreName": "Ultimate Jerry",
+      "nbtName": "ultimate_jerry",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
     "ultimate wise": {
       "loreName": "Ultimate Wise",
       "nbtName": "ultimate_wise",
       "goodLevel": 0,
       "maxLevel": 5
-    },
-    "flowstate": {
-      "loreName": "Flowstate",
-      "nbtName": "ultimate_flowstate",
-      "goodLevel": 0,
-      "maxLevel": 3
     },
     "wisdom": {
       "loreName": "Wisdom",
