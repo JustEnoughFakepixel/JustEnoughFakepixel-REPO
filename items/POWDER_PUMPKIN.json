@@ -1,0 +1,25 @@
+{
+  "itemid": "minecraft:pumpkin_pie",
+  "displayname": "§aPowder Pumpkin",
+  "nbttag": "{Unbreakable:1b,HideFlags:39,display:{Lore:[\"§8Consumed on use\",\"\",\"§7Effect: §2+5% Mithril Powder\",\"§7Duration: §a60m\",\"\",\"§eRight-click to consume!\",\"\",\"§8What happened to Malmar?\",\"\",\"§a§lUNCOMMON CONSUMABLE\",\"\",\"§7Cost\",\"§697,000 Coins\",\"\",\"§eClick to trade!\",\"§eRight-Click for more trading options!\"],Name:\"§aPowder Pumpkin\"},ExtraAttributes:{id:\"POWDER_PUMPKIN\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Consumed on use",
+    "",
+    "§7Effect: §2+5% Mithril Powder",
+    "§7Duration: §a60m",
+    "",
+    "§eRight-click to consume!",
+    "",
+    "§8What happened to Malmar?",
+    "",
+    "§a§lUNCOMMON CONSUMABLE",
+    "",
+    "§7Cost",
+    "§697,000 Coins",
+    "",
+    "§eClick to trade!",
+    "§eRight-Click for more trading options!"
+  ],
+  "internalname": "POWDER_PUMPKIN"
+}
